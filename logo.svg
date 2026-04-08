@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="90" fill="#1e3a8a" stroke="#fbbf24" stroke-width="4"/>
+  
+  <!-- Lightning bolt -->
+  <polygon points="100,40 85,80 115,80 100,120 115,160 130,120 100,120 115,80" fill="#fbbf24"/>
+  
+  <!-- Speech bubble shape -->
+  <path d="M 50,140 Q 50,180 70,180 H 130 Q 150,180 150,160 V 120 Q 150,100 130,100 H 110 L 100,90 L 90,100 H 70 Q 50,100 50,120 Z" fill="none" stroke="#fbbf24" stroke-width="4"/>
+  
+  <!-- DCH text -->
+  <text x="100" y="190" text-anchor="middle" fill="#fbbf24" font-family="Arial, sans-serif" font-size="24" font-weight="bold">DCH</text>
+</svg>
