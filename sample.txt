@@ -1,0 +1,43 @@
+Daily Chinese Hack – Free Sample
+Speak real Chinese, faster.
+
+This sample contains 5 sentences from the "Gift Wrapping" scene.
+The full collection includes 5000 sentences across 162+ scenes.
+
+Each sentence includes:
+- English
+- Chinese (with pinyin)
+- Quick Tip (grammar explanation)
+- Chinglish (literal English translation)
+- Vocabularies
+
+---
+
+Scene: Gift Wrapping
+
+1. English: Please pick a color of wrapping paper.
+   Chinese: 请选择一种包装纸的颜色。(Qǐng xuǎnzé yī zhǒng bāozhuāngzhǐ de yánsè.)
+   Quick Tip: The structure directly follows the English order.
+   Chinglish: Please pick one kind wrapping paper color.
+   Vocabularies: 请 (qǐng) - please, 选择 (xuǎnzé) - pick, 一种 (yī zhǒng) - a kind of, 包装纸 (bāozhuāngzhǐ) - wrapping paper, 颜色 (yánsè) - color
+
+2. English: Would you like it wrapped?
+   Chinese: 你想要把它包装起来吗？(Nǐ xiǎng yào bǎ tā bāozhuāng qǐlái ma?)
+   Quick Tip: The "把" (bǎ) structure is used to indicate handling an object.
+   Chinglish: You want take it wrap up?
+   Vocabularies: 你 (nǐ) - you, 想要 (xiǎng yào) - want, 把 (bǎ) - (particle for handling object), 它 (tā) - it, 包装 (bāozhuāng) - wrap, 起来 (qǐlái) - up
+
+3. English: I'll iron your clothes before wrapping them.
+   Chinese: 我会在包装前熨烫你的衣服。(Wǒ huì zài bāozhuāng qián yùntàng nǐde yīfú.)
+   Quick Tip: Time is expressed with "在... 前" (before...).
+   Chinglish: I will at wrap before iron your clothes.
+   Vocabularies: 我 (wǒ) - I, 会 (huì) - will, 在... 前 (zài...qián) - before, 包装 (bāozhuāng) - wrapping, 熨烫 (yùntàng) - iron, 你的 (nǐde) - your, 衣服 (yīfú) - clothes
+
+---
+
+Get the full collection (5000 sentences, 162+ scenes) at:
+https://daily-chinese-hack.github.io (GitHub Pages)
+OR
+https://gumroad.com/dailychinesehack (Gumroad - coming soon)
+
+Daily Chinese Hack – Learn Chinese through your English brain.
